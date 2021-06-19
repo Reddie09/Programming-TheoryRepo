@@ -125,3 +125,138 @@ Received Import Request.
 Start importing Assets/Scenes/menu.unity using Guid(a1dbfea95b45a3743ae5a9ff037840bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b4c39ed1c1803692f0aea9c1f26d96f') in 0.023744 seconds
   Import took 0.026256 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 648.424829 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.023730 seconds
+  Import took 0.028355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.803478 seconds.
+  path: Assets/Tree.prefab
+  artifactKey: Guid(6990c76c54f760547abd62673380bc85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tree.prefab using Guid(6990c76c54f760547abd62673380bc85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c347907a160855c335322bc22f63a5a1') in 0.532290 seconds
+  Import took 0.534879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.962025 seconds.
+  path: Assets/Tree_Textures
+  artifactKey: Guid(881d6cef0f3cfc940b6156f106e505c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tree_Textures using Guid(881d6cef0f3cfc940b6156f106e505c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f46895c3db2aa768fd5b90027b0b31b') in 0.025041 seconds
+  Import took 0.027841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.331632 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(749e7f150c1a79f448ce4e2c6cacbc37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(749e7f150c1a79f448ce4e2c6cacbc37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07072b084c0436291fe4f67088950a3d') in 0.024424 seconds
+  Import took 0.028383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.900602 seconds.
+  path: Assets/Scripts/MenuUI.cs
+  artifactKey: Guid(0e9141810476bd845907bfd07daf24d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MenuUI.cs using Guid(0e9141810476bd845907bfd07daf24d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ae40ae2717528dfb3973f21705044fc') in 0.048119 seconds
+  Import took 0.052242 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013988 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.302 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.5 MB.
+System memory in use after: 72.9 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1877.
+Total: 2.058000 ms (FindLiveObjects: 0.149100 ms CreateObjectMapping: 0.044900 ms MarkObjects: 1.575100 ms  DeleteObjects: 0.287800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004456 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.888 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.5 MB.
+System memory in use after: 72.9 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1880.
+Total: 2.036300 ms (FindLiveObjects: 0.130100 ms CreateObjectMapping: 0.038600 ms MarkObjects: 1.561900 ms  DeleteObjects: 0.304700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1264.516950 seconds.
+  path: Assets/Scripts/MenuUI.cs
+  artifactKey: Guid(0e9141810476bd845907bfd07daf24d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MenuUI.cs using Guid(0e9141810476bd845907bfd07daf24d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '693f808e96e3418da55c8cbb9ad5632d') in 0.024526 seconds
+  Import took 0.028078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.400289 seconds.
+  path: Assets/Scenes/menu.unity
+  artifactKey: Guid(a1dbfea95b45a3743ae5a9ff037840bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/menu.unity using Guid(a1dbfea95b45a3743ae5a9ff037840bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05e5bad3da9cd4bbcf63aa9e43765091') in 0.028799 seconds
+  Import took 0.030996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.241164 seconds.
+  path: Assets/Scenes/menu.unity
+  artifactKey: Guid(a1dbfea95b45a3743ae5a9ff037840bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/menu.unity using Guid(a1dbfea95b45a3743ae5a9ff037840bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2115e6f795ef3022149892ba2c236ca') in 0.022856 seconds
+  Import took 0.025556 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004341 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.852 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1395 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.5 MB.
+System memory in use after: 73.0 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1883.
+Total: 2.069800 ms (FindLiveObjects: 0.140400 ms CreateObjectMapping: 0.042800 ms MarkObjects: 1.584900 ms  DeleteObjects: 0.300800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.373607 seconds.
+  path: Assets/Scripts/MenuUI.cs
+  artifactKey: Guid(0e9141810476bd845907bfd07daf24d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MenuUI.cs using Guid(0e9141810476bd845907bfd07daf24d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2285b16e7f8c5eca179900f4b8cdb1c3') in 0.024147 seconds
+  Import took 0.026722 seconds .
+
